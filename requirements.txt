@@ -1,0 +1,5 @@
+pyrogram
+tgcrypto
+pydub
+python_dotenv
+git+https://github.com/openai/whisper.git
